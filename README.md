@@ -1,5 +1,5 @@
 # MyApi
-![.NetV](https://img.shields.io/static/v1?style=badge&message=5.0&color=blueviolet&label=.Net) ![Api]( https://img.shields.io/static/v1?message=Api&color=yellow&label=) ![Forks](https://img.shields.io/github/forks/AntonKharchuk/PasswordsHash?style=social)
+![.NetV](https://img.shields.io/static/v1?style=badge&message=5.0&color=blueviolet&label=.Net) ![Api]( https://img.shields.io/static/v1?message=Api&color=yellow&label=) ![Forks](https://img.shields.io/github/forks/AntonKharchuk/MyApi?style=social)
 
 **MyApi** - an Api to search music on YouTube
 
